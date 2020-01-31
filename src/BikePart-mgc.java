@@ -10,7 +10,7 @@
  Signed: Michael G. Cividanes 1-22-2020
  */
 import java.util.Scanner;  // Import the Scanner class
-public class BikePart {
+public class BikePart-mgc {
     Scanner userInput = new Scanner(System.in);
    private String partName;
    private String partNumber;
